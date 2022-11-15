@@ -1,5 +1,3 @@
-package euler.solutions;
-
 /*
     Project Euler Problem 1
     Multiples of 3 or 5
@@ -8,6 +6,8 @@ package euler.solutions;
 
     Find the sum of all the multiples of 3 or 5 below 1000.
 */
+
+package euler.solutions;
 
 public class P001 {
     public static void main(String[] args){
